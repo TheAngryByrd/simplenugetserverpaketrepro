@@ -1,0 +1,4 @@
+source https://www.nuget.org/api/v2
+source http://172.16.122.130:5000/
+
+nuget mycoollib 0.1.0
